@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">news app</string>
+
+    <string name="no_news">No news found.</string>
+
+    <string name="no_internet_connection">No internet connection.</string>
+
+
+    <string name="image_content">Image for news item</string>
+
+    <string name="image_description">Placeholder for image</string>
+
+</resources>
